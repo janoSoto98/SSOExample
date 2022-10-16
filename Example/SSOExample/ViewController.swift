@@ -7,11 +7,13 @@
 //
 
 import UIKit
+import SSOExample
 
 class ViewController: UIViewController {
-
+    var auth2 = AuthSSO()
     override func viewDidLoad() {
         super.viewDidLoad()
+        auth2.signIn(completion: <#T##(String, Error?) -> ()#>)
         // Do any additional setup after loading the view, typically from a nib.
     }
 

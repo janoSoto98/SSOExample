@@ -1,0 +1,6 @@
+framework module SSOExample {
+  umbrella header "SSOExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

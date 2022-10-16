@@ -1,0 +1,16 @@
+PODS:
+  - SSOExample (1.1.0)
+
+DEPENDENCIES:
+  - SSOExample (from `../`)
+
+EXTERNAL SOURCES:
+  SSOExample:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSOExample: 74123c1dffa66467f27b093f2029f5205e5c311d
+
+PODFILE CHECKSUM: ac70ce580dff4a9c29f14c1563a9ce33e7ab3fef
+
+COCOAPODS: 1.11.3

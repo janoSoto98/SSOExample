@@ -8,6 +8,7 @@
 
 import UIKit
 
+import SSOExample
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 

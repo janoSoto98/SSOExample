@@ -1,0 +1,22 @@
+{
+  "name": "SSOExample",
+  "version": "1.1.0",
+  "summary": "Ejemplo de un Single sing on de viva areobus.",
+  "description": "Ejemplo de un Single sing on de viva areobus usando DOTERS.",
+  "homepage": "https://github.com/janoSoto98/SSOVA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "82123683": "alejandrosoto@solemti.mx"
+  },
+  "source": {
+    "git": "git@github.com:janoSoto98/SSOVA.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "SSOExample/Classes/**/*"
+}
